@@ -8,7 +8,9 @@
       "description": "A system for reusing bottles with different sizes",
       "description_long": "",
       "tags": [],
-      "license": "CC-BY-4.0",
+      "license": {
+        "value": "CC-BY-4.0"
+      },
       "author": "Andrea Rossi",
       "authors": [
         "Andrea Rossi"
